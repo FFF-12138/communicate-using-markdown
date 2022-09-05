@@ -9,3 +9,7 @@
 ```
 cd file1/file2/file3
 ```
+
+- [ ] task1
+- [ ] task2
+- [ ] task3
